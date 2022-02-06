@@ -1,6 +1,6 @@
 ---
 title: la vague de Hokusai
-date: 5 février 2022
+date: 20220205
 author: atelier de vassilissa
 ---
 
